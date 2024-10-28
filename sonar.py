@@ -1,7 +1,7 @@
 import os
 
 # 1. 불필요한 변수 사용 (사용되지 않는 변수)
-unused_variable = 1111111
+unused_variable = 22222
 
 # 2. 하드코딩된 비밀번호 (보안 이슈)
 def login(user, password):
